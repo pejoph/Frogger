@@ -1,0 +1,15 @@
+﻿  Skipping... (no relevant changes detected)
+  main.cpp
+framework.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(wgl_context.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(winmm_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(winmm_joystick.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_window.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_tls.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_time.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_monitor.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_init.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(window.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(monitor.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(input.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(init.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+framework.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(context.obj)' or at 'D:\Visual Studio\Frogger Game\ct4019\sample\build\glfw.pdb'; linking object as if no debug info
+  sample.vcxproj -> D:\Visual Studio\Frogger Game\ct4019\sample\./build\sample.exe
